@@ -1,0 +1,159 @@
+{
+  "main": {
+    "name": "Dawit Hagos 👋",
+    "occupation": "Pationate Software Engineer",
+    "description": "Love to build product using Vue, React and Flutter.",
+    "image": "profilepic.jpg",
+    "bio": "Software Engineer with 3 years of professional software development experience. Built 3 cross-platform mobile apps and 5 web applications. Very well experienced in delivering outstanding cross-platform apps that run on Android/IOS using Flutter. Excellent reputation developing web applications with enterprise frameworks such as Spring Boot and Vuejs. I'm a Certified Azure Cloud Administrator also over 2 years of experience working with AWS (Amazon Web Service) managing cloud deployment.",
+    "contactmessage": "Love to hear from you. Please reach-out with one of the Socials. Thank You  🙂 ",
+    "email": "Dawith305@gmail.com",
+    "phone": "+251929258441",
+    "address": {
+      "street": "",
+      "city": "Addis Ababa",
+      "state": "Bole",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "https://drive.google.com/file/d/1qWvk-V55kEx1klJy1XE9q5FVF6g9E0Jk/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dawith305",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/_invincible_d/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/dawith305",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Ethiopian Institute of Technology Mekelle",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "July 2019",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Software Developer",
+        "title": "Excellerent Technology Solutions",
+        "years": "Jun 2019 - Jun 2021",
+        "description": [
+          "Worked closely with QA Team to convert Large Web Apps with different client requirements to be WCAG 2.1 (Accessibility) AA standard compliance compatible.",
+          "Originated and developed creative design concepts using that exceeded client expectations. Developed and implemented process flow improvement.",
+          "Built consistent front-end features. Designed and updated layouts to meet usability and performance requirements.",
+          "Worked on the backend added missing data points with features related to website accessibility migration."
+        ]
+      },
+      {
+        "company": "Full-Stack Software Engineer",
+        "title": "Medco Technology Solutions PLC",
+        "years": "Jun 2019 - Jun 2021",
+        "description": [
+          "Led a team of 3 software engineers through the entire development process of the cross-platform apps using Flutter that run on Android and IOS starting from design, development, and deployment of the apps.",
+          "Configured, deployed, and monitored Highly Available web applications on AWS with services such as EC2, S3, Route53, and RDS.",
+          "Introduced cross-platform development in the company and team from Native app development.",
+          "Led the development and deployment of the COVID19 system where till to date it served more than >40,000 patients.",
+          "Collaborated with project managers to select ambitiously, but realistic coding milestones on pre-release software project development.",
+          "Worked on open-source products customization that fits requirements and uses case of local medical facilities and health centers.          "
+        ]
+      },
+      {
+        "company": "Ontonite Trading",
+        "title": "Mobile Application Developer and System Admin and Integrator",
+        "years": "Aug 2019 - Dec 2019",
+        "description": [
+          "Developed high-quality, concise Android applications to go with the developed system.",
+          "Originated and developed creative design concepts using that exceeded client expectations. Developed and implemented process flow improvement.",
+          "Coordinated ongoing technical training and personal development classes for staff members.",
+          "Consulted with network engineering staff to evaluate hardware and software requirements for new system development.",
+          "Managed to maintain the company database with essential account and clinical information.",
+          "Reviewed technical documentation to complete system maintenance and repair.",
+          "Trained and mentored a number of new personnel hired to fulfill various roles."
+        
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "VueJs",
+        "level": "90%"
+      },
+      {
+        "name": "Flutter",
+        "level": "95%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "77%"
+      },
+      {
+        "name": "ReactJS",
+        "level": "70%"
+      },
+      {
+        "name": "AWS",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid19-LIS-App (VueJS)",
+        "category": "Web App",
+        "image": "Boston-Landing.png",
+        "url": "https://bostonadvancedlab.com"
+      },
+      {
+        "title": "eRxEthiopia (Flutter)",
+        "category": "Cross Platform Mobile App",
+        "image": "erx-login.jpeg",
+        "url": "https://play.google.com/store/apps/details?id=medcoanalyticts.com.erxethiopia.mobile"
+      },
+      {
+        "title": "Spot-Rooms (Next.js)",
+        "category": "Web App with SSR",
+        "image": "spot-date.png",
+        "url": "https://spot-rooms.vercel.app"
+      },
+      {
+        "title": "Youth-ME (Flutter)",
+        "category": "Cross Platform Mobile App",
+        "image": "you-requested.jpeg",
+        "url": "https://play.google.com/store/apps/details?id=com.medcoanalytics.youth_and_adolesence"
+      },
+      {
+        "title": "Jabulani ERP (VueJS)",
+        "category": "Single Page App",
+        "image": "ja-rooms.png",
+        "url": "http://ec2-54-235-100-119.compute-1.amazonaws.com/"
+      },
+      {
+        "title": "Facebook UI (Flutter)",
+        "category": "Cross Platform Mobile App",
+        "image": "fb-UI.png",
+        "url": "https://play.google.com/store/apps/details?id=com.medcoanalytics.youth_and_adolesence"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Dawit is an outstanding developer, his attention to detail, taking products to another level, being a leader in his team brainstorming and collaborating with team members. He is very humble and technically Very Good. I would definitely recommend him.",
+        "user": "Habtamu Desalegn"
+      }
+    ]
+  }
+}
