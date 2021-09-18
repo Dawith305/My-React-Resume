@@ -21,7 +21,6 @@ const About = ({ data }) => {
           <img
             className="profile-pic"
             src={profilepic}
-            alt="Dawit's Picture"
           />
         </div>
         <div className="nine columns main-col">
