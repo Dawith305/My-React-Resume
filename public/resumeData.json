@@ -90,17 +90,18 @@
         "name": "VueJs",
         "level": "90%"
       },
+      
       {
         "name": "Flutter",
         "level": "95%"
       },
       {
-        "name": "Spring Boot",
-        "level": "77%"
-      },
-      {
         "name": "ReactJS",
         "level": "70%"
+      },
+      {
+        "name": "Spring Boot",
+        "level": "77%"
       },
       {
         "name": "AWS",
@@ -111,7 +112,7 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Covid19-LIS-App (VueJS)",
+        "title": "Covid19-LIS-App (Vue.js)",
         "category": "Web App",
         "image": "Boston-Landing.png",
         "url": "https://bostonadvancedlab.com"
@@ -135,7 +136,7 @@
         "url": "https://play.google.com/store/apps/details?id=com.medcoanalytics.youth_and_adolesence"
       },
       {
-        "title": "Jabulani ERP (VueJS)",
+        "title": "Jabulani ERP (Vue.js)",
         "category": "Single Page App",
         "image": "ja-rooms.png",
         "url": "http://ec2-54-235-100-119.compute-1.amazonaws.com/"
@@ -145,6 +146,12 @@
         "category": "Cross Platform Mobile App",
         "image": "fb-UI.png",
         "url": "https://play.google.com/store/apps/details?id=com.medcoanalytics.youth_and_adolesence"
+      },
+      {
+        "title": "We-Talk(React.js)",
+        "category": "Single Page App",
+        "image": "we-talk-chat.png",
+        "url": "https://we-talk-ceb5e.web.app/"
       }
     ]
   },
