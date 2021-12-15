@@ -1,4 +1,4 @@
-# My Digital Resume Build With ReactJS
+# My Digital Resume Built With ReactJS
 
 ![Dawit React Resume](Resume-Sc.png?raw=true "My React JS Resume")
 
