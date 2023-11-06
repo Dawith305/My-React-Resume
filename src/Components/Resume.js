@@ -17,11 +17,12 @@ const Resume = ({ data }) => {
     });
     var work = data.work.map(function (work) {
       return (
-        <div key={work.company}>
-          <h3>{work.company}</h3>
+        <div key={work.title}>
+          <h3>{work.title}</h3>
           <p className="info">
-            {work.title}
+            {work.company}
             <span>&bull;</span> <em className="date">{work.years}</em>
+           <p className="date">{work.location}</p>
           </p>
           <ul style={{listStyleType: 'circle'}}>
           {work.description.map((dec) =>

@@ -4,7 +4,7 @@
     "occupation": "Passionate Software Engineer",
     "description": "Love to build products using Vue, React and Flutter....",
     "image": "profilepic.jpg",
-    "bio": "Software Engineer with 3 years of professional software development experience. Built 3 cross-platform mobile apps and 5 web applications. Very well experienced in delivering outstanding cross-platform apps that run on Android/IOS using Flutter. Excellent reputation developing web applications with enterprise frameworks such as Spring Boot and Vuejs. I'm a Certified Azure Cloud Administrator also over 2 years of experience working with AWS (Amazon Web Service) managing cloud deployment.",
+    "bio": "Passionate and experienced developer with more than 4 years of professional software development experience. Built more than 7 web applications and 3 cross-platform mobile apps. Offering expertise in Vue, React, Flutter, and Spring Boot, coupled with a passion for crafting exceptional user experiences. Enthusiastic about joining a dynamic team and contributing to the success. Fluent in English and experience working with Startup and Enterprise companies. Certified Azure Cloud Administrator also over 2 years of experience working with AWS (Amazon Web Service) managing cloud deployment.",
     "contactmessage": "Love to hear from you. Please reach-out with one of the Socials. Thank You  🙂 ",
     "email": "Dawith305@gmail.com",
     "phone": "+251929258441",
@@ -15,7 +15,7 @@
       "zip": ""
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1qWvk-V55kEx1klJy1XE9q5FVF6g9E0Jk/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1LN0JmEUxO_fzHEHcRkBKfReQcf9gYXUh/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -46,8 +46,25 @@
     ],
     "work": [
       {
-        "company": "Software Developer",
-        "title": "Excellerent Technology Solutions",
+        "title": "Frontend Developer",
+        "company": "Skiwo - (Salita.no / Manymore.com)",
+        "location": "Oslo, Norway - Remote",
+        "years": "Oct 2021 - Oct 2023",
+        "description": [
+          "Played a key role in launching a new Automated Translation service on the platform, expanding its reach to a broader user base and enhancing the experience of customers, providers and the overall business.",
+          "Led the front-end side of development of the platform to a Software-as-a-Service (SAAS) model, enabling scalable and flexible deployment options for possible clients.",
+          "Successfully whitelisted the code base, allowing customisation of the app UI to match clients themes, resulting in a personalised & branded user experience.",
+          "Maintained and updated the shared component library, enhancing code reusability, consistency, and development efficiency across projects.",
+          "Implemented various performance optimisations, resulting in improved platform performance, including enhancing code efficiency and leveraging solutions like Server-Sent Events (SSE) for real-time updates.",
+          "Collaborated closely with backend engineers, QA team, and product owners, to ensure seamless integration, thorough testing, and successful delivery of frontend features and enhancements.",
+          "Contributed to transition off the platform from Vue to React, leveraging expertise in both frameworks.",
+          "Participated in code reviews and provided feedback to improve code quality."
+        ]
+      },
+      {
+        "title": "Software Developer",
+        "company": "Excellerent Technology Solutions",
+        "location": "Pittsburgh, Pennsylvania - Remote",
         "years": "Jun 2019 - Jun 2021",
         "description": [
           "Worked closely with QA Team to convert Large monolithic Web Apps with different client requirements to be WCAG 2.1 (Accessibility) AA standard compliance compatible.",
@@ -57,9 +74,10 @@
         ]
       },
       {
-        "company": "Full-Stack Software Engineer",
-        "title": "Medco Technology Solutions PLC",
+        "title": "Full-Stack Software Engineer",
+        "company": "Medco Technology Solutions PLC",
         "years": "Jun 2019 - Jun 2021",
+        "location": "Addis Ababa - Onsite",
         "description": [
           "Led a team of 3 software engineers through the entire development process of the cross-platform apps using Flutter that run on Android and IOS starting from design, development, and deployment of the apps.",
           "Configured, deployed, and monitored Highly Available web applications on AWS with services such as EC2, S3, Route53, and RDS.",
@@ -70,9 +88,10 @@
         ]
       },
       {
-        "company": "Ontonite Trading",
-        "title": "Mobile Application Developer and System Admin and Integrator",
+        "title": "Ontonite Trading",
+        "company": "Mobile Application Developer and System Admin and Integrator",
         "years": "Aug 2019 - Dec 2019",
+        "location": "Addis Ababa - Onsite",
         "description": [
           "Developed high-quality, concise Android applications to go with the developed system.",
           "Originated and developed creative design concepts using that exceeded client expectations. Developed and implemented process flow improvement.",
@@ -87,21 +106,20 @@
     ],
     "skills": [
       {
-        "name": "VueJs",
+        "name": "Vue",
         "level": "90%"
       },
-      
       {
-        "name": "Flutter",
-        "level": "95%"
+        "name": "React",
+        "level": "85%"
       },
       {
-        "name": "ReactJS",
-        "level": "70%"
+        "name": "Flutter",
+        "level": "75%"
       },
       {
         "name": "Spring Boot",
-        "level": "77%"
+        "level": "75%"
       },
       {
         "name": "AWS",
@@ -111,6 +129,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Salita (React & Vue)",
+        "category": "Web App (SaaS)",
+        "image": "Salita-no.png",
+        "url": "https://www.salita.no"
+      },
       {
         "title": "Covid19-LIS-App (Vue.js)",
         "category": "Web App",

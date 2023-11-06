@@ -283,6 +283,11 @@ ul#nav li.current a { color: #1333e9; font-weight: 700;}
    margin-top: 6px;
 }
 
+#resume .location {
+    font: 15px/24px 'opensans-regular', sans-serif;
+    margin-top: 6px;
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
