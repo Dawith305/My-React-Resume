@@ -65,7 +65,7 @@
         "title": "Software Developer",
         "company": "Excellerent Technology Solutions",
         "location": "Pittsburgh, Pennsylvania - Remote",
-        "years": "Jun 2019 - Jun 2021",
+        "years": "Jun 2021 - Apr 2022",
         "description": [
           "Worked closely with QA Team to convert Large monolithic Web Apps with different client requirements to be WCAG 2.1 (Accessibility) AA standard compliance compatible.",
           "Migrated web apps structure, typography, and imagery to support RTL languages such as Hebrew and Arabic.",
@@ -130,10 +130,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Salita (React & Vue)",
-        "category": "Web App (SaaS)",
-        "image": "Salita-no.png",
+        "title": "Translation (React)",
+        "category": "Web App",
+        "image": "Salita-booking.png",
         "url": "https://www.salita.no"
+      },
+      {
+        "title": "My Salita (Vue)",
+        "category": "Web App",
+        "image": "Salita-my-salita.png",
+        "url": "https://my.salita.no/en/no/auth/sign_in"
       },
       {
         "title": "Covid19-LIS-App (Vue.js)",
@@ -148,10 +154,16 @@
         "url": "https://play.google.com/store/apps/details?id=medcoanalyticts.com.erxethiopia.mobile"
       },
       {
-        "title": "Spot-Rooms (Next.js)",
-        "category": "Web App with SSR",
-        "image": "spot-date.png",
-        "url": "https://spot-rooms.vercel.app"
+        "title": "Connect (React)",
+        "category": "Web App (SaaS)",
+        "image": "Salita-connect.png",
+        "url": "https://manage.salita.no"
+      },
+      {
+        "title": "Jabulani ERP (Vue.js)",
+        "category": "Single Page App",
+        "image": "ja-rooms.png",
+        "url": "http://ec2-54-235-100-119.compute-1.amazonaws.com/"
       },
       {
         "title": "Youth-ME (Flutter)",
@@ -160,10 +172,10 @@
         "url": "https://play.google.com/store/apps/details?id=com.medcoanalytics.youth_and_adolesence"
       },
       {
-        "title": "Jabulani ERP (Vue.js)",
-        "category": "Single Page App",
-        "image": "ja-rooms.png",
-        "url": "http://ec2-54-235-100-119.compute-1.amazonaws.com/"
+        "title": "Spot-Rooms (Next.js)",
+        "category": "Web App with SSR",
+        "image": "spot-date.png",
+        "url": "https://spot-rooms.vercel.app"
       },
       {
         "title": "Facebook UI (Flutter)",
