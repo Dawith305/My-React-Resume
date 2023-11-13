@@ -8,7 +8,7 @@ const Portfolio = ({ data }) => {
         <div key={projects.title} className="columns portfolio-item">
           <h5>{projects.title}</h5>
           <div className="item-wrap">
-            <a href={projects.url} title={projects.title}>
+            <a href={projects.url} title={projects.title} className="item-link">
               <img alt={projects.title} src={projectImage} />
               <div className="overlay">
                 <div className="portfolio-item-meta">
