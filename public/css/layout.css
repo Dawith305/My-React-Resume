@@ -30,33 +30,19 @@ body { background: #0f0f0f; }
 
 header {
    position: relative;
-   height: 800px;
-   min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/mountain-1.jpeg) no-repeat top center;
-   background-size: cover !important;
-	-webkit-background-size: cover !important;
-   text-align: center;
    overflow: hidden;
 }
 
 /* vertically center banner section */
 header:before {
-   content: '';
-   display: inline-block;
-   vertical-align: middle;
-   height: 100%;
+   display: none;
 }
 header .banner {
-   display: inline-block;
-   vertical-align: middle;
-   margin: 0 auto;
-   width: 85%;
-   padding-bottom: 30px;
-   text-align: center;
+   display: none;
 }
 
-header .banner-text { width: 100%; }
+header .banner-text { display: none; }
 header .banner-text h1 {
    font: 90px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
@@ -96,7 +82,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: #11ABB0; }
+header .social li a:hover { color: #F97316; }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -118,7 +104,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: #11ABB0; }
+header .scrolldown a:hover { color: #F97316; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -180,7 +166,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #1333e9; font-weight: 700;}
+ul#nav li.current a { color: #F97316; font-weight: 700;}
 
 
 /* ------------------------------------------------------------------ */
@@ -195,7 +181,7 @@ ul#nav li.current a { color: #1333e9; font-weight: 700;}
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #F97316; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -210,7 +196,7 @@ ul#nav li.current a { color: #1333e9; font-weight: 700;}
    position: relative;
    width: 120px;
    height: 120px;
-   border-radius: 100%;
+   border-radius: 10%;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {
@@ -238,12 +224,11 @@ ul#nav li.current a { color: #1333e9; font-weight: 700;}
 
 #resume {
    background: #fff;
-   padding-top: 90px;
    padding-bottom: 72px;
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: #F97316; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -252,7 +237,7 @@ ul#nav li.current a { color: #1333e9; font-weight: 700;}
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid #F97316;
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -812,7 +797,7 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
+#contact a, #contact a:visited  { color: #F97316; }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -873,7 +858,7 @@ call-to-action .button {
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: #11ABB0;
+	background-color: #F97316;
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -892,7 +877,7 @@ call-to-action .button {
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: #F97316;
 	font-size: 13px;
 }
 #message-warning, #message-success {
@@ -904,7 +889,7 @@ call-to-action .button {
    margin-left: 26%;
 }
 #message-warning { color: #D72828; }
-#message-success { color: #11ABB0; }
+#message-success { color: #F97316; }
 
 #message-warning i,
 #message-success i {
